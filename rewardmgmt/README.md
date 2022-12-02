@@ -4,10 +4,10 @@
 ![Screenshot_20221201_104553](https://user-images.githubusercontent.com/88402774/205232969-8c5601bb-9344-4c00-b242-6472aa8821bf.png)
 
 here we have 2 Tables,
-# Transaction
+## Transaction
 Tabular form of our json data.
 
-# Reward Summary
+## Reward Summary
 Reward Summary is created from Transaction ,here we have 3 extra columns Month(extracted from the trasactiondate),points(calculated points of each month)
 toatalrewards(totalpoints of the entire month).
 
