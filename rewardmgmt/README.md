@@ -1,6 +1,15 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#Transaction Reward Calculation
+
+![Screenshot_20221201_104553](https://user-images.githubusercontent.com/88402774/205232969-8c5601bb-9344-4c00-b242-6472aa8821bf.png)
+
+here we have 2 Tables,
+#Transaction:Tabular form of our json data.
+
+#Rewardsummary:Rewardsummary is created from Transaction ,here we have 3 extra columns Month(extracted from the trasactiondate),points(calculated points of each month)
+toatalrewards(totalpoints of the entire month).
+
+And also here i created a collapsible table too,from this it represents the all trascations of the perticular month.
 
 ## Available Scripts
 
@@ -39,34 +48,6 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)![Screenshot_20221201_104539](https://user-images.githubusercontent.com/88402774/205232965-5ce74e96-fd68-4533-abb5-45c4966ae4b7.png)
-![Screenshot_20221201_104553](https://user-images.githubusercontent.com/88402774/205232969-8c5601bb-9344-4c00-b242-6472aa8821bf.png)
 
